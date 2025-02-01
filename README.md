@@ -27,7 +27,7 @@ A Flutter-base music and podcast player application that enables users to seamle
   - **Background Playback**: Music and podcasts keep playing even if the app is closed  
   - **Notification Controls**: See the current playing track in the notification bar and control playback
  
-Note: This app does not currently have a graphical user interface (UI), but the core functionality is fully working
+**Note**: This app does not currently have a graphical user interface (UI), but the core functionality is fully working
 
 ## Getting Started
 
