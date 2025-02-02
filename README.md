@@ -1,6 +1,6 @@
 # Music & Podcast Player  
 
-A Flutter-base music and podcast player application that enables users to seamlessly play, manage, and organize their audio files. 
+A Flutter-base music and podcast player application that enables users to seamlessly play, manage, and organize their audio files.
 
 ## Features  
 
